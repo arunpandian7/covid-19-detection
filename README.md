@@ -1,7 +1,7 @@
 # COVID-19 Infection Detection
 COVID-19 Detection using CT Scan of Lung Infections with Deep Learning and Computer Vision.
 
-> # Front End Application is Under-Development. Tuned Out Later
+> # Front End Application is Under-Development. Tune Out Later
 
 ## Datasets
 - Cohen's [COVID Chest X-ray Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
