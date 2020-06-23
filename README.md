@@ -1,12 +1,36 @@
-# COVID-19 Infection Detection
-COVID-19 Detection using CT Scan of Lung Infections with Deep Learning and Computer Vision.
+﻿<div align="center">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourstory.com%2F2020%2F03%2Fcoronavirus-covid-19-march-21-updates&psig=AOvVaw2qsfz2yQbpJwlit3dniLjW&ust=1593018179405000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjyorm1mOoCFQAAAAAdAAAAABAE" width=300 />
+</div>
 
-> # Front End Application is Under-Development. Tune Out Later
+<div align="center">
+	<h1 align="center">
+👩‍⚕️COVID-19 DETECTOR AI👨‍⚕️
+	</h1>
+	<span>
+	Deep CNN based AI app for COVID Diagnosis using Chest X-Rays
+	</span>
+</div>
 
+![Demo](https://github.com/ArunRK7Codie/covid-19-detection/blob/master/demo.gif)
+
+
+> ## ⚠️ Experiencing a bug in deploying the App in Heroku. Will Update Soon!!!
+## Tech Stack
+- PyTorch (DL Model)
+- OpenCV 
+- Streamlit (Front End)
 ## Datasets
-- Cohen's [COVID Chest X-ray Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+>😃 I am very grateful and thankful to the huge efforts by the Open-Source Community for collecting data in a repository. This project would be possible without those repositories.
+- Cohen's [COVID Chest X-ray Dataset](https://github.com/ieee8023/covid-chestxray-dataset) 
 - Paul Mooney's [Chest X-ray Dataset (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-
-## Notebooks
-- [Model Training](https://colab.research.google.com/github/ArunRK7Codie/covid-19-detection/blob/master/covid_19_detection.ipynb)
+## Training Notebooks
+I recommend you to get started with Deep Learning by going through the below notebooks. 
+- [Model Training](https://colab.research.google.com/github/ArunRK7Codie/covid-19-detection/blob/master/covid_19_detection.ipynb) 
 - [Inference](https://nbviewer.jupyter.org/github/ArunRK7Codie/covid-19-detection/blob/master/inference.ipynb)
+## Instruction
+1) Clone this repository
+2) Install the dependencies with `pip install -r requirements` while opening the terminal in the repo directory.
+3) Run the app with `streamlit run app.py`
+
+> ❗Stay at home. Stay Safe. Live Long and Prosper🖖. May the Force be with you.
+
