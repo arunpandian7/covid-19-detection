@@ -1,6 +1,3 @@
-﻿<div align="center">
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourstory.com%2F2020%2F03%2Fcoronavirus-covid-19-march-21-updates&psig=AOvVaw2qsfz2yQbpJwlit3dniLjW&ust=1593018179405000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjyorm1mOoCFQAAAAAdAAAAABAE" width=300 />
-</div>
 
 <div align="center">
 	<h1 align="center">
