@@ -22,7 +22,7 @@
 - Paul Mooney's [Chest X-ray Dataset (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 ## Training Notebooks
 I recommend you to get started with Deep Learning by going through the below notebooks. 
-- [Model Training](https://colab.research.google.com/github/ArunRK7Codie/covid-19-detection/blob/master/covid_19_detection.ipynb) 
+- [Model Training](https://www.kaggle.com/arunrk7/pytorch-hyperjump-covid19-classification) - a very detailed notebook on Kaggle which I wrote
 - [Inference](https://nbviewer.jupyter.org/github/ArunRK7Codie/covid-19-detection/blob/master/inference.ipynb)
 ## Instruction
 1) Clone this repository
