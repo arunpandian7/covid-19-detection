@@ -11,7 +11,7 @@
 ![Demo](https://github.com/ArunRK7Codie/covid-19-detection/blob/master/demo.gif)
 
 
-> ## ⚠️ Experiencing a bug in deploying the App in Heroku. Will Update Soon!!!
+> ### ⚠️Apologies 🙇‍♂️. Since there is a bug in Streamlit in deploying a PyTorch app to Heroku. I ditched streamlit to flask app and deployed. Find the repo [here](https://github.com/arunpandian7/covid-detector-flask)
 ## Tech Stack
 - PyTorch (DL Model)
 - OpenCV 
